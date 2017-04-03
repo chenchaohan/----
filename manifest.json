@@ -1,6 +1,6 @@
 {
 	"@platforms": ["android", "iPhone", "iPad"],
-	"id": "",/*应用的标识，创建应用时自动生成，勿手动修改*/
+	"id": "H54A4A734",/*应用的标识，创建应用时自动生成，勿手动修改*/
 	"name": "东风启辰",/*应用名称，程序桌面图标名称*/
 	"version": {
 		"name": "1.0.0",/*应用版本名称*/
@@ -188,6 +188,100 @@
 					"xxhdpi": ""
 				}
 			}
+		}
+	},
+	"dependencies":{
+		"pages": {
+			"index.html": {
+				"href": "index.html",
+				"resources": [
+					"js/mui.min.js",
+					"css/mui.min.css",
+					"fonts/mui.ttf"
+				],
+				"priority": 0
+			}
+		},
+		"idle": {
+			"resources": [
+				"车主福利.html",
+				"login.html",
+				"入会须知.html",
+				"images/center-card@3x.png",
+				"images/unRecord@3x.png",
+				"fonts/mui-icons-extra.ttf",
+				"启辰推荐.html",
+				"forget_password.html",
+				"images/noMessage@3x.png",
+				"images/center-card@2x.png",
+				"images/qihoo.png",
+				"js/mui.js",
+				"images/service-protect@3x.png",
+				"images/service-message@2x.png",
+				"images/service-card@2x.png",
+				"服务记录.html",
+				"会员信息.html",
+				"README.md",
+				"绑定车辆.html",
+				"js/app.js",
+				"js/mui.picker.js",
+				"个人资料.html",
+				"消息列表.html",
+				"违章办理详情.html",
+				"images/score@3x.png",
+				"images/center-order@3x.png",
+				"订单详情.html",
+				"css/mui.css",
+				"js/rem.js",
+				"js/mui.enterfocus.js",
+				"images/消息列表-空@3x.png",
+				"违章办理记录.html",
+				"images/serviec-protect@2x.png",
+				"images/service-comment@3x.png",
+				"推荐记录.html",
+				"images/banner2.png",
+				"unlock.html",
+				"images/service-card@3x.png",
+				"车主认证.html",
+				"images/service-comment@2x.png",
+				"车主入会.html",
+				"images/service-illigal@3x.png",
+				"images/user-photo.png",
+				"服务点评.html",
+				"images/center-order@2x.png",
+				"images/tuijian.png",
+				"detail.html",
+				"images/service-points@3x.png",
+				"images/score@2x.png",
+				"list.html",
+				"images/weixin.png",
+				"images/service-illigal@2x.png",
+				"images/qq.png",
+				"店铺列表.html",
+				"images/iconfont-tianjia.png",
+				"images/banner1.png",
+				"images/sinaweibo.png",
+				"images/car.png",
+				"个人中心.html",
+				"优惠券.html",
+				"积分管理.html",
+				"images/消息列表-空@2x.png",
+				"留言反馈.html",
+				"登陆后的个人资料.html",
+				"reg.html",
+				"订单管理.html",
+				"css/style.css",
+				"加入东风启辰合伙人.html",
+				"images/center-comment@3x.png",
+				"images/unRecord@2x.png",
+				"推荐朋友.html",
+				"images/service-points@2x.png",
+				"images/noMessage@2x.png",
+				"images/service-message@3x.png",
+				"main.html",
+				"js/mui.locker.js",
+				"images/center-comment@2x.png"
+			]
 		}
 	}
 }
